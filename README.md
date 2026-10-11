@@ -36,7 +36,7 @@ This extension requires access to:
 ## Support the Developer ❤️
 If you like this extension, you can **support me** by:
 - [Star this respository](https://github.com/yuzzzie/Outlook-No-Ads)  
-- [Follow me on X](https://x.com/yuzzziee)
+- [Follow me on X](https://x.com/yuzzzie)
 
 ---
 
